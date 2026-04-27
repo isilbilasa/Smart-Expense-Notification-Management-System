@@ -41,11 +41,11 @@ smart_expense_notification_management_system/
 ## 🚀 Kurulum
 Repoyu bilgisayarınıza klonlayın:
 ```bash
-git clone [https://github.com/isilbilasa/Smart-Expense-Notification-System.git](https://github.com/isilbilasa/Smart-Expense-Notification-System.git)
+git clone [https://github.com/isilbilasa/Smart-Expense-Notification-Management-System.git](https://github.com/isilbilasa/Smart-Expense-Notification-Management-System.git)
 ```
 2.Proje dizinine gidin:
 ```bash
-cd Smart_Expense_Notification_Management_System
+cd Smart-Expense-Notification-Management-System/smart_expense_notification_management_system
 ```
 3. Gerekli Ortamı Hazırlayın:
 
